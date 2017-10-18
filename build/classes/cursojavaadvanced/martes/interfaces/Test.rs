@@ -1,0 +1,4 @@
+cursojavaadvanced.martes.interfaces.Rectangle
+cursojavaadvanced.martes.interfaces.Test
+cursojavaadvanced.martes.interfaces.Drawable2
+cursojavaadvanced.martes.interfaces.Circle

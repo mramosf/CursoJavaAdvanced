@@ -1,0 +1,4 @@
+cursojavaadvanced.martes.figuras.Rectangule
+cursojavaadvanced.martes.figuras.Shape
+cursojavaadvanced.martes.figuras.TestFiguras
+cursojavaadvanced.martes.figuras.Circule

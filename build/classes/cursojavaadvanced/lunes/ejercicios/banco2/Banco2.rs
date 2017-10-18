@@ -1,0 +1,9 @@
+cursojavaadvanced.lunes.ejercicios.banco2.Test
+cursojavaadvanced.lunes.ejercicios.banco2.Test2
+cursojavaadvanced.lunes.ejercicios.banco2.AXIS2
+cursojavaadvanced.lunes.ejercicios.banco2.SBI
+cursojavaadvanced.lunes.ejercicios.banco2.Banco2
+cursojavaadvanced.lunes.ejercicios.banco2.SBI2
+cursojavaadvanced.lunes.ejercicios.banco2.ICICI
+cursojavaadvanced.lunes.ejercicios.banco2.AXIS
+cursojavaadvanced.lunes.ejercicios.banco2.ICICI2
