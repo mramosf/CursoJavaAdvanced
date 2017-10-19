@@ -1,4 +1,4 @@
-package cursojavaadvanced.proyectoConAbstraccion;
+package cursojavaadvanced.proyecto.Abstraccion;
 
 import cursojavaadvanced.lunes.LoadImageApp;
 import cursojavaadvanced.proyecto.Artista;
@@ -9,27 +9,17 @@ import javax.sound.sampled.AudioSystem;
 import javax.sound.sampled.Clip;
 import javax.swing.JFrame;
 
-public class Concierto extends AccionesArtista {
-    //private JFrame f = new JFrame("Load Image Sample");
-
-    public static void main(String[] args) {
-        Artista a1 = new Artista("maluma", "Mexicana", "Banda", 60);
-        Artista a2 = new Artista("shakira", "Mexicana", "Banda", 50);
-        AccionesArtista aa = new Concierto();
-        aa.presenta(a1);
-        aa.canta(a1);
-        aa.presenta(a2);
-        aa.canta(a2);
-    }
+public class Presentador extends AccionesArtista {
 
     @Override
-    void presenta(Artista a) {
+    public void presenta(Artista a) {
         System.out.println("Hola soy " + a.getNombre());
         String imagen = a.getNombre().trim() + ".jpg";
         
         JFrame f = new JFrame("Load Image Sample");
             
         f.addWindowListener(new WindowAdapter(){
+            @Override
             public void windowClosing(WindowEvent e) {
                 System.exit(0);
             }
@@ -41,7 +31,8 @@ public class Concierto extends AccionesArtista {
     }
 
     @Override
-    void canta(Artista a) {
+    public void canta(Artista a) {
+        System.out.println(a.getNombre() + " va a cantar");
         String cancion = a.getNombre().trim() + ".wav";
         try{
             Clip sonido = AudioSystem.getClip();
@@ -54,4 +45,5 @@ public class Concierto extends AccionesArtista {
             System.out.println("" + e);
         }
     }
+    
 }

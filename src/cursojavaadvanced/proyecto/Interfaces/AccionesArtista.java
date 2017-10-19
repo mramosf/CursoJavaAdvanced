@@ -1,4 +1,4 @@
-package cursojavaadvanced.proyectoConInterfaces;
+package cursojavaadvanced.proyecto.Interfaces;
 
 import cursojavaadvanced.proyecto.Artista;
 

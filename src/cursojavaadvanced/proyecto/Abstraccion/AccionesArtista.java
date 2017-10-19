@@ -1,4 +1,4 @@
-package cursojavaadvanced.proyectoConAbstraccion;
+package cursojavaadvanced.proyecto.Abstraccion;
 
 import cursojavaadvanced.proyecto.Artista;
 
