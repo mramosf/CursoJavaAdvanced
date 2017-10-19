@@ -1,6 +1,7 @@
-package cursojavaadvanced.proyecto;
+package cursojavaadvanced.proyectoConInterfaces;
 
 import cursojavaadvanced.lunes.LoadImageApp;
+import cursojavaadvanced.proyecto.Artista;
 import java.awt.event.WindowAdapter;
 import java.awt.event.WindowEvent;
 import java.io.File;
@@ -8,20 +9,21 @@ import javax.sound.sampled.AudioSystem;
 import javax.sound.sampled.Clip;
 import javax.swing.JFrame;
 
-public class Concierto {
+public class Concierto implements AccionesArtista {
     //private JFrame f = new JFrame("Load Image Sample");
 
     public static void main(String[] args) {
         Artista a1 = new Artista("maluma", "Mexicana", "Banda", 60);
         Artista a2 = new Artista("shakira", "Mexicana", "Banda", 50);
-        Concierto aa = new Concierto();
+        AccionesArtista aa = new Concierto();
         aa.presenta(a1);
         aa.canta(a1);
         aa.presenta(a2);
         aa.canta(a2);
     }
 
-    void presenta(Artista a) {
+    @Override
+    public void presenta(Artista a) {
         System.out.println("Hola soy " + a.getNombre());
         String imagen = a.getNombre().trim() + ".jpg";
         
@@ -38,7 +40,8 @@ public class Concierto {
         f.setVisible(true);
     }
 
-    void canta(Artista a) {
+    @Override
+    public void canta(Artista a) {
         String cancion = a.getNombre().trim() + ".wav";
         try{
             Clip sonido = AudioSystem.getClip();
