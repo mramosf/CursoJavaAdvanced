@@ -1,0 +1,8 @@
+Nombre artista: maluma
+Nacionalidad artista: Mexicana
+Genero artista: Banda
+Edad artista: 60
+Nombre artista: shakira
+Nacionalidad artista: Mexicana
+Genero artista: Banda
+Edad artista: 50
