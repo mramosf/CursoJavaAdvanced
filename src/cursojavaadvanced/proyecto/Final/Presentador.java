@@ -55,7 +55,7 @@ public class Presentador implements AccionesArtista {
             File file = new File(cancion);
             sonido.open(AudioSystem.getAudioInputStream(file));
             sonido.start();
-            Thread.sleep(30000); // 1000 milisegundos (1 segundos)
+            Thread.sleep(10000); // 1000 milisegundos (1 segundos)
             sonido.close();
         }catch(Exception e){
             System.out.println("" + e);

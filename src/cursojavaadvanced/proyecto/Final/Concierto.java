@@ -58,6 +58,7 @@ public class Concierto {
         };
         
         registraArtistas.start();
+        registraArtistas.join();
         presentaArtista.start();
         cantaArtista.start();
         cantaArtista.join();
