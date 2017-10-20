@@ -3,31 +3,16 @@
     <editor-bookmarks xmlns="http://www.netbeans.org/ns/editor-bookmarks/2" lastBookmarkId="0"/>
     <open-files xmlns="http://www.netbeans.org/ns/projectui-open-files/2">
         <group>
-            <file>file:/C:/Users/HP/Documents/NetBeansProjects/CursoJavaAdvanced/src/cursojavaadvanced/jueves/io/TestIO2.java</file>
-            <file>file:/C:/Users/HP/Documents/NetBeansProjects/CursoJavaAdvanced/src/cursojavaadvanced/jueves/thread/TestM3.java</file>
-            <file>file:/C:/Users/HP/Documents/NetBeansProjects/CursoJavaAdvanced/src/cursojavaadvanced/proyecto/Interfaces/AccionesArtista.java</file>
-            <file>file:/C:/Users/HP/Documents/NetBeansProjects/CursoJavaAdvanced/src/cursojavaadvanced/jueves/io/TestIO8.java</file>
-            <file>file:/C:/Users/HP/Documents/NetBeansProjects/CursoJavaAdvanced/src/cursojavaadvanced/jueves/io/TestIO12.java</file>
-            <file>file:/C:/Users/HP/Documents/NetBeansProjects/CursoJavaAdvanced/src/cursojavaadvanced/proyecto/Interfaces/Hilos/Presentador.java</file>
-            <file>file:/C:/Users/HP/Documents/NetBeansProjects/CursoJavaAdvanced/src/cursojavaadvanced/jueves/sincronizacion/Test.java</file>
-            <file>file:/C:/Users/HP/Documents/NetBeansProjects/CursoJavaAdvanced/src/cursojavaadvanced/proyecto/Interfaces/Concierto.java</file>
-            <file>file:/C:/Users/HP/Documents/NetBeansProjects/CursoJavaAdvanced/src/cursojavaadvanced/proyecto/Interfaces/Presentador.java</file>
-            <file>file:/C:/Users/HP/Documents/NetBeansProjects/CursoJavaAdvanced/src/cursojavaadvanced/jueves/sincronizacion/Test2.java</file>
-            <file>file:/C:/Users/HP/Documents/NetBeansProjects/CursoJavaAdvanced/src/cursojavaadvanced/jueves/io/TestIO10.java</file>
-            <file>file:/C:/Users/HP/Documents/NetBeansProjects/CursoJavaAdvanced/src/cursojavaadvanced/jueves/io/TestIO3.java</file>
-            <file>file:/C:/Users/HP/Documents/NetBeansProjects/CursoJavaAdvanced/src/cursojavaadvanced/jueves/io/TestIO7.java</file>
-            <file>file:/C:/Users/HP/Documents/NetBeansProjects/CursoJavaAdvanced/src/cursojavaadvanced/jueves/io/TestIO13.java</file>
-            <file>file:/C:/Users/HP/Documents/NetBeansProjects/CursoJavaAdvanced/src/cursojavaadvanced/jueves/io/TestIO11.java</file>
-            <file>file:/C:/Users/HP/Documents/NetBeansProjects/CursoJavaAdvanced/src/cursojavaadvanced/jueves/io/TestIO14.java</file>
-            <file>file:/C:/Users/HP/Documents/NetBeansProjects/CursoJavaAdvanced/src/cursojavaadvanced/jueves/io/TestIO9.java</file>
-            <file>file:/C:/Users/HP/Documents/NetBeansProjects/CursoJavaAdvanced/src/cursojavaadvanced/proyecto/Interfaces/ThreadAnonimo/Concierto.java</file>
-            <file>file:/C:/Users/HP/Documents/NetBeansProjects/CursoJavaAdvanced/src/cursojavaadvanced/jueves/io/TestIO4.java</file>
-            <file>file:/C:/Users/HP/Documents/NetBeansProjects/CursoJavaAdvanced/src/cursojavaadvanced/jueves/io/TestIO6.java</file>
-            <file>file:/C:/Users/HP/Documents/NetBeansProjects/CursoJavaAdvanced/src/cursojavaadvanced/jueves/thread/TestM2.java</file>
-            <file>file:/C:/Users/HP/Documents/NetBeansProjects/CursoJavaAdvanced/src/cursojavaadvanced/jueves/thread/TestM.java</file>
-            <file>file:/C:/Users/HP/Documents/NetBeansProjects/CursoJavaAdvanced/src/cursojavaadvanced/jueves/io/TestIO.java</file>
-            <file>file:/C:/Users/HP/Documents/NetBeansProjects/CursoJavaAdvanced/src/cursojavaadvanced/proyecto/Interfaces/RunnableAnonimo/Concierto.java</file>
-            <file>file:/C:/Users/HP/Documents/NetBeansProjects/CursoJavaAdvanced/src/cursojavaadvanced/jueves/io/TestIO5.java</file>
+            <file>file:/C:/Users/HP/Documents/NetBeansProjects/CursoJavaAdvanced/src/cursojavaadvanced/viernes/networking/socket3/DSender.java</file>
+            <file>file:/C:/Users/HP/Documents/NetBeansProjects/CursoJavaAdvanced/src/cursojavaadvanced/viernes/networking/Test.java</file>
+            <file>file:/C:/Users/HP/Documents/NetBeansProjects/CursoJavaAdvanced/src/cursojavaadvanced/viernes/networking/socket1/Cliente.java</file>
+            <file>file:/C:/Users/HP/Documents/NetBeansProjects/CursoJavaAdvanced/src/cursojavaadvanced/viernes/networking/socket2/Servidor.java</file>
+            <file>file:/C:/Users/HP/Documents/NetBeansProjects/CursoJavaAdvanced/src/cursojavaadvanced/viernes/networking/Test2.java</file>
+            <file>file:/C:/Users/HP/Documents/NetBeansProjects/CursoJavaAdvanced/src/cursojavaadvanced/viernes/networking/socket3/DReciever.java</file>
+            <file>file:/C:/Users/HP/Documents/NetBeansProjects/CursoJavaAdvanced/src/cursojavaadvanced/viernes/networking/socket2/Cliente.java</file>
+            <file>file:/C:/Users/HP/Documents/NetBeansProjects/CursoJavaAdvanced/src/cursojavaadvanced/viernes/networking/Test4.java</file>
+            <file>file:/C:/Users/HP/Documents/NetBeansProjects/CursoJavaAdvanced/src/cursojavaadvanced/viernes/networking/Test3.java</file>
+            <file>file:/C:/Users/HP/Documents/NetBeansProjects/CursoJavaAdvanced/src/cursojavaadvanced/viernes/networking/socket1/Servidor.java</file>
         </group>
     </open-files>
 </project-private>
